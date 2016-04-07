@@ -1,0 +1,754 @@
+.flag {
+  background-image: url('img/world_flags.png');
+  background-repeat: no-repeat;
+  background-size: 1750%;
+  width: 30px;
+  height: 30px;
+  background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);
+}
+/* United States */
+.flag-USA {background-position: calc( (0 * 7.23%) + 3px) calc( (1 * 7.20%) + 1px);}
+
+/* Afghanistan */
+/*.flag-AFG {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Åland Islands */
+/*.flag-ALA {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Albania */
+/*.flag-ALB {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Algeria */
+/*.flag-DZA {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* American Samoa */
+/*.flag-ASM {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Andorra */
+/*.flag-AND {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Angola */
+/*.flag-AGO {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Anguilla */
+/*.flag-AIA {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Antarctica */
+/*.flag-ATA {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Antigua and Barbuda */
+/*.flag-ATG {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Argentina */
+.flag-ARG {background-position: calc( (8 * 7.23%) + 3px) calc( (3 * 7.20%) + 1px);}
+
+/* Armenia */
+/*.flag-ARM {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Aruba */
+/*.flag-ABW {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Australia */
+.flag-AUS {background-position: calc( (0 * 7.23%) + 3px) calc( (11 * 7.20%) + 1px);}
+
+/* Austria */
+.flag-AUT {background-position: calc( (2 * 7.23%) + 3px) calc( (7 * 7.20%) + 1px);}
+
+/* Azerbaijan */
+/*.flag-AZE {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Bahamas */
+/*.flag-BHS {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Bahrain */
+/*.flag-BHR {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Bangladesh */
+/*.flag-BGD {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Barbados */
+/*.flag-BRB {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Belarus */
+/*.flag-BLR {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Belgium */
+/*.flag-BEL {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Belize */
+/*.flag-BLZ {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Benin */
+/*.flag-BEN {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Bermuda */
+/*.flag-BMU {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Bhutan */
+/*.flag-BTN {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Bolivia, Plurinational State of */
+/*.flag-BOL {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Bonaire, Sint Eustatius and Saba */
+/*.flag-BES {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Bosnia and Herzegovina */
+/*.flag-BIH {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Botswana */
+/*.flag-BWA {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Bouvet Island */
+/*.flag-BVT {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Brazil */
+/*.flag-BRA {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* British Indian Ocean Territory */
+/*.flag-IOT {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Brunei Darussalam */
+/*.flag-BRN {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Bulgaria */
+/*.flag-BGR {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Burkina Faso */
+/*.flag-BFA {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Burundi */
+/*.flag-BDI {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Cambodia */
+/*.flag-KHM {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Cameroon */
+/*.flag-CMR {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Canada */
+/*.flag-CAN {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Cape Verde */
+/*.flag-CPV {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Cayman Islands */
+/*.flag-CYM {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Central African Republic */
+/*.flag-CAF {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Chad */
+/*.flag-TCD {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Chile */
+/*.flag-CHL {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* China */
+/*.flag-CHN {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Christmas Island */
+/*.flag-CXR {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Cocos (Keeling) Islands */
+/*.flag-CCK {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Colombia */
+/*.flag-COL {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Comoros */
+/*.flag-COM {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Congo */
+/*.flag-COG {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Congo, the Democratic Republic of the */
+/*.flag-COD {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Cook Islands */
+/*.flag-COK {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Costa Rica */
+/*.flag-CRI {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Côte d'Ivoire */
+/*.flag-CIV {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Croatia */
+/*.flag-HRV {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Cuba */
+/*.flag-CUB {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Curaçao */
+/*.flag-CUW {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Cyprus */
+/*.flag-CYP {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Czech Republic */
+/*.flag-CZE {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Denmark */
+/*.flag-DNK {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Djibouti */
+/*.flag-DJI {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Dominica */
+/*.flag-DMA {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Dominican Republic */
+/*.flag-DOM {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Ecuador */
+/*.flag-ECU {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Egypt */
+/*.flag-EGY {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* El Salvador */
+/*.flag-SLV {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Equatorial Guinea */
+/*.flag-GNQ {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Eritrea */
+/*.flag-ERI {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Estonia */
+/*.flag-EST {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Ethiopia */
+/*.flag-ETH {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Falkland Islands (Malvinas) */
+/*.flag-FLK {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Faroe Islands */
+/*.flag-FRO {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Fiji */
+/*.flag-FJI {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Finland */
+/*.flag-FIN {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* France */
+/*.flag-FRA {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* French Guiana */
+/*.flag-GUF {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* French Polynesia */
+/*.flag-PYF {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* French Southern Territories */
+/*.flag-ATF {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Gabon */
+/*.flag-GAB {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Gambia */
+/*.flag-GMB {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Georgia */
+/*.flag-GEO {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Germany */
+/*.flag-DEU {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Ghana */
+/*.flag-GHA {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Gibraltar */
+/*.flag-GIB {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Greece */
+/*.flag-GRC {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Greenland */
+/*.flag-GRL {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Grenada */
+/*.flag-GRD {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Guadeloupe */
+/*.flag-GLP {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Guam */
+/*.flag-GUM {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Guatemala */
+/*.flag-GTM {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Guernsey */
+/*.flag-GGY {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Guinea */
+/*.flag-GIN {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Guinea-Bissau */
+/*.flag-GNB {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Guyana */
+/*.flag-GUY {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Haiti */
+/*.flag-HTI {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Heard Island and McDonald Islands */
+/*.flag-HMD {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Holy See (Vatican City State) */
+/*.flag-VAT {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Honduras */
+/*.flag-HND {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Hong Kong */
+/*.flag-HKG {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Hungary */
+/*.flag-HUN {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Iceland */
+/*.flag-ISL {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* India */
+/*.flag-IND {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Indonesia */
+/*.flag-IDN {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Iran, Islamic Republic of */
+/*.flag-IRN {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Iraq */
+/*.flag-IRQ {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Ireland */
+/*.flag-IRL {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Isle of Man */
+/*.flag-IMN {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Israel */
+/*.flag-ISR {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Italy */
+/*.flag-ITA {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Jamaica */
+/*.flag-JAM {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Japan */
+/*.flag-JPN {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Jersey */
+/*.flag-JEY {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Jordan */
+/*.flag-JOR {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Kazakhstan */
+/*.flag-KAZ {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Kenya */
+/*.flag-KEN {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Kiribati */
+/*.flag-KIR {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Korea, Democratic People's Republic of */
+/*.flag-PRK {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Korea, Republic of */
+/*.flag-KOR {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Kuwait */
+/*.flag-KWT {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Kyrgyzstan */
+/*.flag-KGZ {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Lao People's Democratic Republic */
+/*.flag-LAO {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Latvia */
+/*.flag-LVA {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Lebanon */
+/*.flag-LBN {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Lesotho */
+/*.flag-LSO {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Liberia */
+/*.flag-LBR {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Libya */
+/*.flag-LBY {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Liechtenstein */
+/*.flag-LIE {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Lithuania */
+/*.flag-LTU {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Luxembourg */
+/*.flag-LUX {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Macao */
+/*.flag-MAC {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Macedonia, the former Yugoslav Republic of */
+/*.flag-MKD {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Madagascar */
+/*.flag-MDG {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Malawi */
+/*.flag-MWI {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Malaysia */
+/*.flag-MYS {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Maldives */
+/*.flag-MDV {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Mali */
+/*.flag-MLI {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Malta */
+/*.flag-MLT {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Marshall Islands */
+/*.flag-MHL {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Martinique */
+/*.flag-MTQ {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Mauritania */
+/*.flag-MRT {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Mauritius */
+/*.flag-MUS {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Mayotte */
+/*.flag-MYT {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Mexico */
+.flag-MEX {background-position: calc( (10 * 7.23%) + 3px) calc( (5 * 7.20%) + 1px);}
+
+/* Micronesia, Federated States of */
+/*.flag-FSM {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Moldova, Republic of */
+/*.flag-MDA {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Monaco */
+/*.flag-MCO {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Mongolia */
+/*.flag-MNG {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Montenegro */
+/*.flag-MNE {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Montserrat */
+/*.flag-MSR {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Morocco */
+/*.flag-MAR {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Mozambique */
+/*.flag-MOZ {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Myanmar */
+/*.flag-MMR {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Namibia */
+/*.flag-NAM {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Nauru */
+/*.flag-NRU {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Nepal */
+/*.flag-NPL {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Netherlands */
+/*.flag-NLD {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* New Caledonia */
+/*.flag-NCL {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* New Zealand */
+/*.flag-NZL {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Nicaragua */
+/*.flag-NIC {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Niger */
+/*.flag-NER {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Nigeria */
+/*.flag-NGA {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Niue */
+/*.flag-NIU {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Norfolk Island */
+/*.flag-NFK {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Northern Mariana Islands */
+/*.flag-MNP {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Norway */
+/*.flag-NOR {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Oman */
+/*.flag-OMN {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Pakistan */
+/*.flag-PAK {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Palau */
+/*.flag-PLW {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Palestinian Territory, Occupied */
+/*.flag-PSE {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Panama */
+/*.flag-PAN {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Papua New Guinea */
+/*.flag-PNG {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Paraguay */
+/*.flag-PRY {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Peru */
+/*.flag-PER {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Philippines */
+/*.flag-PHL {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Pitcairn */
+/*.flag-PCN {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Poland */
+/*.flag-POL {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Portugal */
+/*.flag-PRT {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Puerto Rico */
+/*.flag-PRI {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Qatar */
+/*.flag-QAT {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* RÃ©union */
+/*.flag-REU {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Romania */
+/*.flag-ROU {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Russian Federation */
+/*.flag-RUS {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Rwanda */
+/*.flag-RWA {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Saint Barthélemy */
+/*.flag-BLM {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Saint Helena, Ascension and Tristan da Cunha */
+/*.flag-SHN {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Saint Kitts and Nevis */
+/*.flag-KNA {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Saint Lucia */
+/*.flag-LCA {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Saint Martin (French part) */
+/*.flag-MAF {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Saint Pierre and Miquelon */
+/*.flag-SPM {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Saint Vincent and the Grenadines */
+/*.flag-VCT {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Samoa */
+/*.flag-WSM {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* San Marino */
+/*.flag-SMR {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Sao Tome and Principe */
+/*.flag-STP {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Saudi Arabia */
+/*.flag-SAU {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Senegal */
+/*.flag-SEN {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Serbia */
+/*.flag-SRB {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Seychelles */
+/*.flag-SYC {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Sierra Leone */
+/*.flag-SLE {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Singapore */
+/*.flag-SGP {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Sint Maarten (Dutch part) */
+/*.flag-SXM {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Slovakia */
+/*.flag-SVK {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Slovenia */
+/*.flag-SVN {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Solomon Islands */
+/*.flag-SLB {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Somalia */
+/*.flag-SOM {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* South Africa */
+/*.flag-ZAF {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* South Georgia and the South Sandwich Islands */
+/*.flag-SGS {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* South Sudan */
+/*.flag-SSD {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Spain */
+/*.flag-ESP {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Sri Lanka */
+/*.flag-LKA {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Sudan */
+/*.flag-SDN {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Suriname */
+/*.flag-SUR {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Svalbard and Jan Mayen */
+/*.flag-SJM {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Swaziland */
+/*.flag-SWZ {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Sweden */
+/*.flag-SWE {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Switzerland */
+/*.flag-CHE {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Syrian Arab Republic */
+/*.flag-SYR {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Taiwan, Province of China */
+/*.flag-TWN {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Tajikistan */
+/*.flag-TJK {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Tanzania, United Republic of */
+/*.flag-TZA {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Thailand */
+/*.flag-THA {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Timor-Leste */
+/*.flag-TLS {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Togo */
+/*.flag-TGO {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Tokelau */
+/*.flag-TKL {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Tonga */
+/*.flag-TON {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Trinidad and Tobago */
+/*.flag-TTO {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Tunisia */
+/*.flag-TUN {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Turkey */
+.flag-TUR {background-position: calc( (0 * 7.23%) + 3px) calc( (10 * 7.20%) + 1px);}
+
+/* Turkmenistan */
+/*.flag-TKM {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Turks and Caicos Islands */
+/*.flag-TCA {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Tuvalu */
+.flag-TUV {background-position: calc( (13 * 7.23%) + 3px) calc( (6 * 7.20%) + 1px);}
+
+/* Uganda */
+/*.flag-UGA {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Ukraine */
+.flag-UKR {background-position: calc( (3 * 7.23%) + 3px) calc( (1 * 7.20%) + 1px);}
+
+/* United Arab Emirates */
+.flag-ARE {background-position: calc( (11 * 7.23%) + 3px) calc( (7 * 7.20%) + 1px);}
+
+/* United Kingdom */
+.flag-GBR {background-position: calc( (6 * 7.23%) + 3px) calc( (4 * 7.20%) + 1px);}
+
+/* United States Minor Outlying Islands */
+/*.flag-UMI {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Uruguay */
+.flag-URY {background-position: calc( (8 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}
+
+/* Uzbekistan */
+.flag-UZB {background-position: calc( (7 * 7.23%) + 3px) calc( (8 * 7.20%) + 1px);}
+
+/* Vanuatu */
+/*.flag-VUT {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Venezuela, Bolivarian Republic of */
+.flag-VEN {background-position: calc( (5 * 7.23%) + 3px) calc( (13 * 7.20%) + 1px);}
+
+/* Viet Nam */
+.flag-VNM {background-position: calc( (1 * 7.23%) + 3px) calc( (6 * 7.20%) + 1px);}
+
+/* Virgin Islands, British */
+/*.flag-VGB {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Virgin Islands, U.S. */
+/*.flag-VIR {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Wallis and Futuna */
+.flag-WLF {background-position: calc( (0 * 7.23%) + 3px) calc( (5 * 7.20%) + 1px);}
+
+/* Western Sahara */
+.flag-ESH {background-position: calc( (14 * 7.23%) + 3px) calc( (1 * 7.20%) + 1px);}
+
+/* Yemen */
+.flag-YEM {background-position: calc( (10 * 7.23%) + 3px) calc( (1 * 7.20%) + 1px);}
+
+/* Zambia */
+/*.flag-ZMB {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
+
+/* Zimbabwe */
+/*.flag-ZWE {background-position: calc( (14 * 7.23%) + 3px) calc( (14 * 7.20%) + 1px);}*/
